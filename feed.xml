@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Evo Web News - Saúde</title>
+<atom:link href="https://evwbr.github.io/saude/feed.xml" rel="self" type="application/rss+xml"/>
+<link>https://evwbr.github.io/saude/</link>
+<description>Saúde reescrita com IA - Evo Web News</description>
+<lastBuildDate>Fri, 09 Jan 2026 16:13:31 GMT</lastBuildDate>
+<language>pt-BR</language>
+<item>
+<title><![CDATA[Novas regras para transporte de produtos agropecuários em viagens internacionais]]></title>
+<link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/brasil-tera-novas-regras-para-entrada-de-produtos-agropecuarios</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Fri, 09 Jan 2026 14:00:00 GMT</pubDate>
+<category><![CDATA[Saúde]]></category>
+<guid isPermaLink="false"><![CDATA[1674634 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[A partir de 4 de fevereiro, o Brasil adotará novas regras para o transporte de produtos agropecuários nas bagagens de passageiros em viagens internacionais. A medida visa evitar a entrada de agentes que possam ameaçar a saúde pública, o meio ambiente e o patrimônio agropecuário nacional.]]></description>
+<content:encoded><![CDATA[
+<p>A partir de 4 de fevereiro, o Brasil adotará novas regras para o transporte de produtos agropecuários nas bagagens de passageiros em viagens internacionais. A medida visa evitar a entrada de agentes que possam ameaçar a saúde pública, o meio ambiente e o patrimônio agropecuário nacional.</p>
+<p>A fiscalização será realizada pelo Sistema de Vigilância Agropecuária Internacional, que avaliará os riscos associados à entrada de determinados itens no país. A lista de produtos inclui animais, vegetais, bebidas, fertilizantes, agrotóxicos, alimentos, produtos de madeira, estimulantes e biofertilizantes, além de materiais genéticos para reprodução animal e propagação vegetal.</p>
+<p>Também estão na relação produtos de uso veterinário, destinados à alimentação animal, e inoculantes que favorecem o desenvolvimento das plantas. A lista poderá ser atualizada. Quem transportar esses produtos deverá preencher um documento emitido pelo Ministério da Agricultura e Pecuária, que será encaminhado eletronicamente às unidades do sistema de vigilância nos pontos de entrada do país. O documento deve conter informações detalhadas sobre os bens, como quantidade, acondicionamento, origem, modal e local de ingresso.</p>
+<p>Será necessário apresentar o prazo de validade da autorização de importação e dados do viajante. A declaração será feita por meio da Declaração Eletrônica de Bens do Viajante, entregue na unidade do sistema por meio do canal específico para bens a declarar.</p>
+<p>Essas medidas reforçam o controle sanitário e protegem os recursos agropecuários brasileiros durante viagens internacionais.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Casos de SRAG apresentam queda no Brasil]]></title>
+<link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-01/casos-de-sindrome-respiratoria-grave-estao-em-queda-diz-infogripe</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Thu, 08 Jan 2026 22:54:00 GMT</pubDate>
+<category><![CDATA[Saúde]]></category>
+<guid isPermaLink="false"><![CDATA[1674598 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[O boletim InfoGripe de 2026 mostra redução nos casos de Síndrome Respiratória Aguda Grave em quase todos os estados e capitais do país. Em 2025, o Brasil registrou 13.678 mortes por essa síndrome, com maior incidência entre crianças pequenas e mortalidade concentrada nos idosos.]]></description>
+<content:encoded><![CDATA[
+<p>O boletim InfoGripe de 2026 mostra redução nos casos de Síndrome Respiratória Aguda Grave em quase todos os estados e capitais do país. Em 2025, o Brasil registrou 13.678 mortes por essa síndrome, com maior incidência entre crianças pequenas e mortalidade concentrada nos idosos.</p>
+<p>Nas últimas oito semanas, a incidência e mortalidade semanais médias de SRAG mantêm padrão de maior impacto nas faixas etárias extremas, especialmente entre crianças e idosos. A tendência de queda é observada tanto no curto quanto no longo prazo, sem níveis de alerta, risco ou alto risco na maioria das regiões.</p>
+<p>O impacto dos vírus respiratórios relacionados à SRAG concentra-se principalmente entre as crianças, com destaque para o rinovírus e o metapneumovírus. A análise considera dados das quatro últimas semanas epidemiológicas, o que pode levar a alterações nas incidências e mortalidade.</p>
+<p>Em 2025, dos 13.678 óbitos por SRAG, pouco mais da metade teve resultado laboratorial positivo para vírus respiratórios. Entre os vírus detectados, influenza A foi o mais prevalente, seguido por Sars-CoV-2, rinovírus, vírus sincicial respiratório e influenza B.</p>
+<p>Acompanhar as atualizações sobre SRAG é fundamental para entender o cenário atual e as medidas de prevenção recomendadas para a população.</p>
+]]></content:encoded>
+</item>
+</channel></rss>
