@@ -8,21 +8,23 @@
 <atom:link href="https://evwbr.github.io/saude/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/saude/</link>
 <description>Saúde reescrita com IA - Evo Web News</description>
-<lastBuildDate>Thu, 28 May 2026 03:04:36 GMT</lastBuildDate>
+<lastBuildDate>Thu, 28 May 2026 11:04:40 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Vacinação reforçada contra febre amarela no Grande ABC]]></title>
-<link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/governo-de-sp-reforca-vacina-contra-febre-amarela-na-regiao-do-abc</link>
+<title><![CDATA[Doença de Chagas aumenta risco de morte após cirurgias cardíacas]]></title>
+<link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/risco-cardiaco-dobra-para-pacientes-com-doenca-de-chagas-apos-cirurgia</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 28 May 2026 01:00:00 GMT</pubDate>
+<pubDate>Thu, 28 May 2026 10:28:00 GMT</pubDate>
 <category><![CDATA[Saúde]]></category>
-<guid isPermaLink="false"><![CDATA[1691275 at https://agenciabrasil.ebc.com.br]]></guid>
-<description><![CDATA[O governo paulista anunciou o reforço da vacinação contra a febre amarela na região do Grande ABC, após a morte de um primata não humano em Santo André. A medida visa ampliar a proteção da população diante da presença do vírus em áreas próximas a matas e parques.]]></description>
+<guid isPermaLink="false"><![CDATA[1691279 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[Pacientes com doença de Chagas que apresentam arritmias graves têm risco de mortalidade maior após cirurgias cardíacas em comparação a outros grupos com doenças do coração. Estudo realizado com dados de atendimentos no Hospital das Clínicas de São Paulo revela que a mortalidade geral nesse grupo chega a 36% no pós-operatório.]]></description>
 <content:encoded><![CDATA[
-<p>O governo paulista anunciou o reforço da vacinação contra a febre amarela na região do Grande ABC, após a morte de um primata não humano em Santo André. A medida visa ampliar a proteção da população diante da presença do vírus em áreas próximas a matas e parques.</p>
-<p>A região do Grande ABC é composta por sete municípios e faz parte da região metropolitana de São Paulo. Em Santo André, a vacina é recomendada para crianças a partir de seis meses, com a dose zero para aquelas entre seis e oito meses. Idosos, gestantes e mulheres que amamentam crianças de até seis meses também podem ser vacinados após avaliação médica.</p>
-<p>Nas cidades de São Bernardo do Campo, São Caetano do Sul, Diadema, Mauá, Ribeirão Pires e Rio Grande da Serra, a vacinação é indicada para quem frequenta áreas de risco ou não completou o ciclo de imunização, a partir de nove meses de idade. Quem recebeu a vacina fracionada em 2018 deve tomar uma nova dose completa.</p>
-<p>A febre amarela é transmitida por mosquitos em áreas silvestres, sem transmissão direta entre pessoas ou entre primatas e humanos. Não há registro de febre amarela urbana no Brasil desde 1942, mas a presença do vírus em primatas indica risco em áreas de mata, parques e unidades de conservação.</p>
+<p>Pacientes com doença de Chagas que apresentam arritmias graves têm risco de mortalidade maior após cirurgias cardíacas em comparação a outros grupos com doenças do coração. Estudo realizado com dados de atendimentos no Hospital das Clínicas de São Paulo revela que a mortalidade geral nesse grupo chega a 36% no pós-operatório.</p>
+<p>A pesquisa analisou 378 procedimentos cirúrgicos em 288 pacientes com doença de Chagas realizados entre 2011 e 2020. O risco de morte após as cirurgias é cerca de 2, 4 vezes maior para esses pacientes do que para portadores de outras doenças cardíacas. A complexidade do procedimento, que geralmente exige acesso à camada externa do coração, contribui para o aumento das complicações e da instabilidade clínica.</p>
+<p>Embora as arritmias graves estejam presentes, o aumento do risco não está relacionado à maior incidência dessas arritmias em pacientes com doença de Chagas. O fator determinante é a complexidade da cirurgia e aspectos não cardíacos que influenciam o quadro clínico. O acompanhamento rigoroso da insuficiência cardíaca e de outras comorbidades após a alta hospitalar é fundamental para melhorar o cuidado desses pacientes.</p>
+<p>A doença de Chagas é causada pela infecção pelo protozoário Trypanosoma cruzi, transmitido principalmente pelo contato com o inseto barbeiro. A infecção pode causar lesões no coração e nos intestinos, levando a disfunções graves. O tratamento cirúrgico, conhecido como ablação por cateter, visa eliminar as lesões responsáveis pelas arritmias, mas apresenta maior risco em pacientes com Chagas devido à necessidade de procedimentos mais invasivos.</p>
+<p>O estudo também aponta limitações, como a variação no acompanhamento pós-operatório e a falta de exames específicos em todos os pacientes, o que pode subestimar eventos tardios. Além disso, dificuldades socioeconômicas e logísticas afetam o cuidado a longo prazo, especialmente para pacientes de regiões remotas. Atualmente, cerca de 7 milhões de pessoas têm a doença de Chagas, com muitos casos ainda não diagnosticados.</p>
+<p>Os resultados reforçam a importância de um acompanhamento especializado e contínuo para pacientes com doença de Chagas submetidos a cirurgias cardíacas.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
