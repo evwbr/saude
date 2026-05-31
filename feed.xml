@@ -8,22 +8,39 @@
 <atom:link href="https://evwbr.github.io/saude/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/saude/</link>
 <description>Saúde reescrita com IA - Evo Web News</description>
-<lastBuildDate>Sun, 31 May 2026 15:04:36 GMT</lastBuildDate>
+<lastBuildDate>Sun, 31 May 2026 19:04:41 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Homem internado em São Paulo tem meningite meningocócica]]></title>
-<link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/paciente-em-sp-com-suspeita-de-ebola-testa-positivo-para-meningite</link>
+<title><![CDATA[Expedição Barco Ciência leva saúde a comunidades ribeirinhas de Porto Velho]]></title>
+<link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/expedicao-leva-atendimento-em-saude-a-ribeirinhos-de-rondonia</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Sun, 31 May 2026 14:01:00 GMT</pubDate>
+<pubDate>Sun, 31 May 2026 18:42:00 GMT</pubDate>
 <category><![CDATA[Saúde]]></category>
-<guid isPermaLink="false"><![CDATA[1691875 at https://agenciabrasil.ebc.com.br]]></guid>
-<description><![CDATA[Um homem de 37 anos internado em São Paulo com suspeita de Ebola testou positivo para meningite meningocócica após exame PCR. O paciente, que viajou recentemente para a República Democrática do Congo, permanece em isolamento enquanto a suspeita de Ebola continua em investigação.]]></description>
+<guid isPermaLink="false"><![CDATA[1691876 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[A sexta edição da expedição Barco Ciência, Saúde e Cidadania levou atendimento em saúde e cidadania a comunidades ribeirinhas de Porto Velho, Rondônia. A ação ocorreu entre os dias 20 e 24 de maio, proporcionando acesso a serviços pouco disponíveis na região.]]></description>
 <content:encoded><![CDATA[
-<p>Um homem de 37 anos internado em São Paulo com suspeita de Ebola testou positivo para meningite meningocócica após exame PCR. O paciente, que viajou recentemente para a República Democrática do Congo, permanece em isolamento enquanto a suspeita de Ebola continua em investigação.</p>
-<p>O diagnóstico de meningite meningocócica foi confirmado por meio de exame de sangue PCR. Apesar disso, a hipótese de contaminação pelo vírus Ebola ainda está sendo avaliada por análises laboratoriais e genômicas. O paciente apresentou febre intensa ao chegar ao Brasil e foi internado no Instituto de Infectologia Emílio Ribas, referência para casos suspeitos no estado.</p>
-<p>No estado de São Paulo, todos os casos suspeitos devem ser comunicados imediatamente à vigilância epidemiológica municipal e ao Centro de vigilância epidemiológica. O Instituto Adolfo Lutz é responsável pela investigação laboratorial e pelo diagnóstico diferencial das doenças que apresentam sintomas semelhantes.</p>
-<p>O homem esteve recentemente na República Democrática do Congo, que enfrenta um surto de Ebola. Por precaução, ele permanece em isolamento para evitar qualquer risco de transmissão enquanto os exames continuam sendo realizados.</p>
-<p>As autoridades de saúde seguem monitorando o caso com protocolos rigorosos para garantir a segurança da população e a correta investigação do diagnóstico.</p>
+<p>A sexta edição da expedição Barco Ciência, Saúde e Cidadania levou atendimento em saúde e cidadania a comunidades ribeirinhas de Porto Velho, Rondônia. A ação ocorreu entre os dias 20 e 24 de maio, proporcionando acesso a serviços pouco disponíveis na região.</p>
+<p>A expedição percorreu o Rio Madeira, visitando as comunidades de Calama, Nazaré e São Carlos, na região do Baixo Madeira. No barco, mais de 100 pessoas, entre estudantes, professores e pesquisadores, realizaram ações voltadas à saúde, educação e cidadania, atendendo diretamente a população local.</p>
+<p>A maior comunidade atendida foi Calama, onde vivem cerca de 2, 3 mil pessoas. Muitos moradores enfrentam longas viagens para acessar serviços de saúde, como a agricultora familiar Vânia Caetano dos Reis, que precisou de mais de duas horas e meia de navegação e duas horas a cavalo para chegar ao local do atendimento.</p>
+<p>Vânia destacou a dificuldade de acesso aos exames, como o de malária, que só pode ser realizado em Calama. Ela contou que a chegada do barco é uma oportunidade rara e importante para a comunidade, pois os serviços oferecidos normalmente demandam viagens extenuantes e nem sempre há vagas disponíveis.</p>
+<p>A iniciativa reforça a importância de levar serviços essenciais a comunidades ribeirinhas, promovendo saúde e cidadania em regiões de difícil acesso.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Fiocruz investiga caso suspeito de ebola no Rio de Janeiro]]></title>
+<link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-05/rio-belga-testa-positivo-para-malaria-mas-fiocruz-nao-descarta-ebola</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Sun, 31 May 2026 17:10:00 GMT</pubDate>
+<category><![CDATA[Saúde]]></category>
+<guid isPermaLink="false"><![CDATA[1691878 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[O Instituto Nacional de Infectologia Evandro Chagas, da Fiocruz, investiga um viajante belga vindo de Uganda com sintomas virais. As primeiras amostras indicaram malária, mas o exame de sangue ainda está em análise para descartar ebola.]]></description>
+<content:encoded><![CDATA[
+<p>O Instituto Nacional de Infectologia Evandro Chagas, da Fiocruz, investiga um viajante belga vindo de Uganda com sintomas virais. As primeiras amostras indicaram malária, mas o exame de sangue ainda está em análise para descartar ebola.</p>
+<p>O paciente chegou ao Instituto Evandro Chagas apresentando tosse, calafrios e diarreia, e foi imediatamente isolado para atendimento especializado. Uganda, país de origem do viajante, registra casos de ebola, o que motivou a adoção de medidas de precaução durante a investigação.</p>
+<p>As análises iniciais de saliva e urina descartaram a presença do vírus ebola, confirmando apenas malária. O exame de sangue permanece em análise, sem previsão para conclusão, e as autoridades de saúde acompanham o caso junto com a Fiocruz.</p>
+<p>Além do paciente, as pessoas que tiveram contato com ele estão sendo monitoradas pelas secretarias municipal e estadual de Saúde. A Fiocruz esclarece que o vírus ebola não é transmitido pelo ar, mas por contato direto com sangue, tecidos ou fluidos corporais de infectados.</p>
+<p>Atualmente, há um surto de ebola na África Central, com epicentro no Congo e casos em Uganda. A Fiocruz é referência no Brasil para o atendimento e diagnóstico de casos suspeitos, ressaltando que o risco de transmissão no país é baixo.</p>
+<p>A Fiocruz segue acompanhando o caso com rigor e reforça a importância das medidas de precaução para evitar a disseminação do vírus.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
