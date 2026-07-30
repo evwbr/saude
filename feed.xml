@@ -8,20 +8,36 @@
 <atom:link href="https://evwbr.github.io/saude/feed.xml" rel="self" type="application/rss+xml"/>
 <link>https://evwbr.github.io/saude/</link>
 <description>Saúde reescrita com IA - Evo Web News</description>
-<lastBuildDate>Thu, 30 Jul 2026 15:39:35 GMT</lastBuildDate>
+<lastBuildDate>Thu, 30 Jul 2026 21:39:36 GMT</lastBuildDate>
 <language>pt-BR</language>
 <item>
-<title><![CDATA[Anvisa apreende lote falsificado do medicamento Mounjaro]]></title>
-<link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/anvisa-determina-apreensao-de-lote-falsificado-de-mounjaro</link>
+<title><![CDATA[São Paulo inicia Campanha de Multivacinação para menores de 15 anos]]></title>
+<link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/sp-inicia-campanha-de-multivacinacao-na-segunda-feira-3</link>
 <dc:creator><![CDATA[Evo Web News]]></dc:creator>
-<pubDate>Thu, 30 Jul 2026 14:17:00 GMT</pubDate>
+<pubDate>Thu, 30 Jul 2026 20:34:00 GMT</pubDate>
 <category><![CDATA[Saúde]]></category>
-<guid isPermaLink="false"><![CDATA[1698087 at https://agenciabrasil.ebc.com.br]]></guid>
-<description><![CDATA[A Anvisa determinou a apreensão de um lote falsificado do medicamento Mounjaro. A medida foi publicada no Diário Oficial da União e envolve um lote com número legítimo, mas série incompatível.]]></description>
+<guid isPermaLink="false"><![CDATA[1698157 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[O estado de São Paulo começa na próxima segunda-feira a Campanha de Multivacinação em todos os seus municípios. A ação é destinada a menores de 15 anos, com reforço especial contra o sarampo em algumas cidades.]]></description>
 <content:encoded><![CDATA[
-<p>A Anvisa determinou a apreensão de um lote falsificado do medicamento Mounjaro. A medida foi publicada no Diário Oficial da União e envolve um lote com número legítimo, mas série incompatível. A Agência Nacional de vigilância sanitária identificou um lote falsificado do medicamento Mounjaro. A resolução para a apreensão foi divulgada oficialmente nesta quinta-feira, garantindo a segurança dos consumidores.</p>
-<p>A empresa Eli Lilly do Brasil Ltda., responsável pelo registro do produto, detectou o lote com número D881474 no mercado. Embora esse número esteja registrado no sistema, o número de série 302199651396 foi classificado como incompatível, caracterizando a falsificação.</p>
-<p>A Anvisa reforça a importância da verificação dos medicamentos para garantir a segurança e a eficácia dos tratamentos disponíveis.</p>
+<p>O estado de São Paulo começa na próxima segunda-feira a Campanha de Multivacinação em todos os seus municípios. A ação é destinada a menores de 15 anos, com reforço especial contra o sarampo em algumas cidades.</p>
+<p>A Campanha de Multivacinação será realizada em todos os 645 municípios do estado de São Paulo, abrangendo crianças e adolescentes com menos de 15 anos. O objetivo é atualizar a caderneta de vacinação e garantir a proteção contra diversas doenças preveníveis por vacina.</p>
+<p>Nas cidades de São Paulo, Guarulhos e São Bernardo do Campo, a campanha também contempla pessoas de 6 meses a 59 anos. Nessas localidades, o foco é reforçar a imunização contra o sarampo, ampliando a cobertura vacinal para essa faixa etária.</p>
+<p>A iniciativa busca aumentar a adesão à vacinação e prevenir surtos de doenças, especialmente em grupos mais vulneráveis. A mobilização envolve unidades de saúde e pontos estratégicos para facilitar o acesso da população às vacinas.</p>
+]]></content:encoded>
+</item>
+<item>
+<title><![CDATA[Estigma social pode causar mortes evitáveis por HIV]]></title>
+<link>https://agenciabrasil.ebc.com.br/saude/noticia/2026-07/desinformacao-sobre-hiv-dificulta-tratamento-e-aumenta-preconceito</link>
+<dc:creator><![CDATA[Evo Web News]]></dc:creator>
+<pubDate>Thu, 30 Jul 2026 19:16:00 GMT</pubDate>
+<category><![CDATA[Saúde]]></category>
+<guid isPermaLink="false"><![CDATA[1698125 at https://agenciabrasil.ebc.com.br]]></guid>
+<description><![CDATA[A persistência do estigma social em relação ao HIV pode resultar em cerca de 440 mil mortes evitáveis nesta década. A pesquisa destaca que o preconceito dificulta o acesso ao diagnóstico e ao tratamento adequado.]]></description>
+<content:encoded><![CDATA[
+<p>A persistência do estigma social em relação ao HIV pode resultar em cerca de 440 mil mortes evitáveis nesta década. A pesquisa destaca que o preconceito dificulta o acesso ao diagnóstico e ao tratamento adequado.</p>
+<p>O estigma em torno do HIV gera impactos significativos na sociedade, dificultando o enfrentamento da doença. O medo de realizar o teste e de iniciar o tratamento é uma consequência direta do preconceito que ainda existe.</p>
+<p>Além disso, o preconceito afeta a convivência com pessoas que vivem com HIV, aumentando o isolamento e a discriminação. Esses fatores contribuem para a manutenção da epidemia e para o aumento do número de mortes evitáveis.</p>
+<p>Combater o estigma social é fundamental para melhorar a qualidade de vida das pessoas com HIV e reduzir o número de mortes relacionadas à doença.</p>
 ]]></content:encoded>
 </item>
 </channel></rss>
